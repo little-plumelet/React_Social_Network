@@ -1,0 +1,12 @@
+.navBar {
+    grid-area: sb;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    color: gray;
+    padding: 1rem;
+  }
+
+.icon {
+  color: #ff5e3a;
+}
